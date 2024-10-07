@@ -1,4 +1,4 @@
-# 高晓晨 (gxcsoccer) 的个人网站
+# 高晓晨的个人网站
 
 这是我的个人 Landing Page 项目，使用 [Next.js](https://nextjs.org) 构建。
 
